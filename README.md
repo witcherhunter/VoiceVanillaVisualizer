@@ -1,2 +1,5 @@
-# VoiceVanillaVisualizer
+# VoiceVanillaVisualizer   
+#WebAudioAPI
+این کد با استفاده از کتابخانه Web audio api  ساخته شده است .
+با استفاده از این کد میتوان صدا را تبدیل به فرکانس کرد و فرکانس درست شده را تبدیل به تصویر کرد .
  
